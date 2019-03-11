@@ -1,0 +1,25 @@
+
+Ssquid:S1854"5Remove this useless assignment to local variable "a".(‚Ü³š8»Öÿå–-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ˆÅŸþÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑêÛ±úÿÿÿÿ8»Öÿå–-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(—§„Šüÿÿÿÿ8×ì†æ–-
+Dsquid:S1481"&Remove this unused "a" local variable.(‚Ü³š8»Öÿå–-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(„„ÌÕ8é•¡å–-
+Xsquid:S1854	"5Remove this useless assignment to local variable "c".(€ó®·øÿÿÿÿ8»Öÿå–-
+msquid:S1192$"ODefine a constant instead of duplicating this literal "Total Space = " 4 times.(„„ÌÕ8–é…æ–-
+[squid:S1854!"=Remove this useless assignment to local variable "freeSpace".(Ž§Œ—8¼™…æ–-
+Isquid:S1481"&Remove this unused "b" local variable.(éŸÑêøÿÿÿÿ8»Öÿå–-
+Xsquid:S1854"5Remove this useless assignment to local variable "b".(éŸÑêøÿÿÿÿ8»Öÿå–-
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ÂÁõßùÿÿÿÿ8ŸÿÊæ–-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ž÷–þþÿÿÿÿ8–é…æ–-
+Lsquid:S1481!".Remove this unused "freeSpace" local variable.(Ž§Œ—8¼™…æ–-
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Ú¤¡8óª…æ–-
+Isquid:S1481	"&Remove this unused "c" local variable.(€ó®·øÿÿÿÿ8»Öÿå–-
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¢¹ºÅ8óª…æ–-
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Ž¶ÊÇ8½ôç–-
+Esquid:S1481)"'Remove this unused "aa" local variable.(—Ü³à8½ôç–-
+Tsquid:S1854)"6Remove this useless assignment to local variable "aa".(—Ü³à8½ôç–-

@@ -1,0 +1,22 @@
+
+\squid:S1854"9Remove this useless assignment to local variable "aByte".(Ûá«äÿÿÿÿÿ8‘÷éâ–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÙ¯Âşÿÿÿÿ8´ëââ–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø„íšûÿÿÿÿ8Áìáâ–-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“éĞúÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø²Ò‡8ĞóÛâ–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ëùÀúÿÿÿÿ8›³İâ–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(šü¤ßıÿÿÿÿ8›³İâ–-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è»¸úÿÿÿÿ8ëôèâ–-
+Ysquid:S1854"6Remove this useless assignment to local variable "PI".(ä•¬¸ÿÿÿÿÿ8àÜåâ–-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÂÚN8…Ôàâ–-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ââÒŸşÿÿÿÿ8Å˜áâ–-
+Jsquid:S1481"'Remove this unused "PI" local variable.(ä•¬¸ÿÿÿÿÿ8àÜåâ–-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(²—†Ğ8õ¥ââ–-
