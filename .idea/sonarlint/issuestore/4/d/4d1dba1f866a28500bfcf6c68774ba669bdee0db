@@ -1,0 +1,8 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(óÂ¸Õ8Ô£š·—-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÎ§á
+Msquid:S2201
+"/The return value of "toLowerCase" must be used.(Ú¿©Ý8„öÊ·—-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼’µñ8è‚™·—-

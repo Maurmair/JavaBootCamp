@@ -1,4 +1,4 @@
-package excersice05_05;
+package chapter5;
 
 public class DataTypes {
     public static void main(String[] args) {

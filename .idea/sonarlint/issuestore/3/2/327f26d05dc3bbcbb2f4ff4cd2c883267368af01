@@ -1,0 +1,27 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¤Äê‡—-
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(–òÀ²8Ìàåˆ—-
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(™´©8Ï·œ‰—-
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(™´©8âÖœ‰—-
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(·Ûäî8èÔÚˆ—-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ò¨€Œıÿÿÿÿ8÷Í‰—-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(à††ø8¨ “‰—-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ñ¤—ˆ—-
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(°¿“Åúÿÿÿÿ8Ë‹‰—-
+Zsquid:S2589?"7Remove this expression which always evaluates to "true"(áèÕÀşÿÿÿÿ8‘›‰—-
+V
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ÃÈ‡¥8àÎªˆ—-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úèÇÓ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ºëõ‡—-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(§å¼¦ıÿÿÿÿ8Óïı‡—-
+]squid:S1854C"?Remove this useless assignment to local variable "juisteInput".(Şëº8ªÇ‰—-

@@ -1,4 +1,4 @@
-package exercise05_01;
+package chapter5;
 
 public class DataTypesApp {
 

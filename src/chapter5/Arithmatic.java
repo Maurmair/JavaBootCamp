@@ -1,4 +1,4 @@
-package excercise05_04;
+package chapter5;
 
 import java.util.*;
 
