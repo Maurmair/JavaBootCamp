@@ -2,54 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b75c6d-7917-4845-969b-84fe5635acb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Exc5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Exc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Exc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Exc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Exc4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Exc5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2bcd42bc205fa29cc371c60455b7129a64d15f61" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3fd9dc139308d808d0bda53b1d2c64da0679a935" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d600e40c0414455ee57a44843a02db27fca7a87b" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/RectangleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/492a0fa847f70e25763a10c762b478bdb20a5709" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/492a0fa847f70e25763a10c762b478bdb20a5709" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6a44035f81b7139f3a974d1fe82e47bea404de2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6a44035f81b7139f3a974d1fe82e47bea404de2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc14A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc14A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc14B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc14B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/excercise05_04/Arithmatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/excersice05_05/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/exercise05_01/DataTypesApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Arithmatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Arithmatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/BmiUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/BmiUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/DataTypesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/DataTypesApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc14A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc14A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc14B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc14B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc15A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc15A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Exc9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/KeyBoardUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/KeyBoardUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Exc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Exc3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Exc4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,10 +19,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/Exc5.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter8/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="324">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#1219#1220#0" expanded="true" />
+                <element signature="e#1274#1275#0" expanded="true" />
+                <element signature="e#1309#1310#0" expanded="true" />
+                <element signature="e#1372#1373#0" expanded="true" />
+                <element signature="e#1406#1407#0" expanded="true" />
+                <element signature="e#1499#1500#0" expanded="true" />
+                <element signature="e#1566#1567#0" expanded="true" />
+                <element signature="e#1655#1656#0" expanded="true" />
+                <element signature="e#1714#1715#0" expanded="true" />
+                <element signature="e#1787#1788#0" expanded="true" />
+                <element signature="e#1846#1847#0" expanded="true" />
+                <element signature="e#1919#1920#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter8/RectangleApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-362">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -127,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/chapter5/Exc15.java" />
         <option value="$PROJECT_DIR$/src/chapter7/Exc4.java" />
         <option value="$PROJECT_DIR$/src/chapter7/Exc5.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/chapter8/RectangleApp.java" />
       </list>
     </option>
   </component>
@@ -161,8 +148,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,12 +166,6 @@
               <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,6 +173,12 @@
               <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552480046251" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552489696658" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../MVT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/pascal-data/apps/node-v6.10.0-win-x64/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -211,7 +198,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -230,23 +217,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exc5">
+  <component name="RunManager" selected="Application.RectangleApp">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exc1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.Exc1" />
-      <module name="BootCamp" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -307,6 +280,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RectangleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.RectangleApp" />
+      <module name="BootCamp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -329,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RectangleApp" />
+        <item itemvalue="Application.Exc3" />
         <item itemvalue="Application.Exc5" />
         <item itemvalue="Application.Exc4" />
-        <item itemvalue="Application.Exc3" />
         <item itemvalue="Application.Exc2" />
-        <item itemvalue="Application.Exc1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -350,11 +337,13 @@
       <workItem from="1552300599726" duration="16303000" />
       <workItem from="1552378060401" duration="22148000" />
       <workItem from="1552463833523" duration="13420000" />
+      <workItem from="1552481382488" duration="3895000" />
+      <workItem from="1552486410560" duration="3731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51871000" />
+    <option name="totallyTimeSpent" value="59497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1046" extended-state="0" />
@@ -365,7 +354,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18004338" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18546638" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -421,6 +410,12 @@
           <line>15</line>
           <properties />
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/Rectangle.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -575,20 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/dev/java/jdk1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217">
-          <caret line="441" column="6" lean-forward="true" selection-start-line="441" selection-start-column="6" selection-end-line="441" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/Exc5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter6/Exc1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -607,13 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/Exc3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -679,10 +653,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/dev/java/jdk1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6/Exc5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter7/Exc5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="205">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/Exc3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/RectangleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1274#1275#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1499#1500#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+            <element signature="e#1655#1656#0" expanded="true" />
+            <element signature="e#1714#1715#0" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
+            <element signature="e#1846#1847#0" expanded="true" />
+            <element signature="e#1919#1920#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

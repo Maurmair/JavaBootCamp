@@ -79,3 +79,7 @@ F
 src/chapter7/Exc4.java,4\d\4d1dba1f866a28500bfcf6c68774ba669bdee0db
 F
 src/chapter7/Exc5.java,c\6\c6a44035f81b7139f3a974d1fe82e47bea404de2
+K
+src/chapter8/Rectangle.java,7\0\704649a286145ca93583d5f2ef7d1963e1cacf6e
+N
+src/chapter8/RectangleApp.java,a\e\ae2b61e588ee6b8c22950111550fa81ed7c614bf

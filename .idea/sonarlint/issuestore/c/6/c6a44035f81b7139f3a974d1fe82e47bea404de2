@@ -1,10 +1,7 @@
 
-Ksquid:S1481"(Remove this unused "avg" local variable.(Ø½¨Òşÿÿÿÿ8¤Üş·—-
-[
-squid:S106	"9Replace this use of System.out or System.err by a logger.(Ï™Òêıÿÿÿÿ8ŠŒ¸—-
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÎ§á
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(·‚ÄÊ8ŠŒ¸—-
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö¹´É8œ¤–¸—-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(Â—‡ûÿÿÿÿ8ö¶‰¸—-
 U
@@ -12,5 +9,8 @@ squid:S106
 "9Replace this use of System.out or System.err by a logger.(Øôğ8œ¤–¸—-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(Á²›Š8œ¤–¸—-
+Ksquid:S1481"(Remove this unused "avg" local variable.(Ø½¨Òşÿÿÿÿ8¤Üş·—-
 V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ö¹´É8œ¤–¸—-
+squid:S106"9Replace this use of System.out or System.err by a logger.(·‚ÄÊ8ŠŒ¸—-
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ï™Òêıÿÿÿÿ8ŠŒ¸—-
