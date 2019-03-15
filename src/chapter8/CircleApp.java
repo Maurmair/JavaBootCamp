@@ -26,8 +26,8 @@ public class CircleApp {
         System.out.println("X is: " + c.getX());
         System.out.println("Y is: " + c.getY());
         System.out.println("Radius is: " + c.getRadius());
-        System.out.println("Oppervlakte is : " + c.getArea(c) + " vierkante meter");
-        System.out.println("Omtrekt is: " + c.getPerimiter(c)+ " meter");
+        System.out.println("Oppervlakte is : " + c.getArea() + " vierkante meter");
+        System.out.println("Omtrekt is: " + c.getPerimiter()+ " meter");
         System.out.println("Aantal gemaakte circles: "+c.getCount());
     }
 }

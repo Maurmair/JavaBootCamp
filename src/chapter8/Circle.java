@@ -50,12 +50,12 @@ public class Circle {
         this.radius = Math.abs(radius);
     }
 
-    public double getArea(final Circle cirlce){
-        return Math.abs(cirlce.getRadius()*Math.PI);
+    public double getArea(){
+        return Math.abs(this.radius*Math.PI);
     }
 
-    public double getPerimiter(final Circle cirle){
-        return Math.abs((cirle.radius*2)*Math.PI);
+    public double getPerimiter(){
+        return Math.abs((this.radius*2)*Math.PI);
     }
 
     public static void grow(Circle circle){
