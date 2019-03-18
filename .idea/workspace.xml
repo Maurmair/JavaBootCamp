@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b75c6d-7917-4845-969b-84fe5635acb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter11/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/CoinApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/DayApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter11/PlanetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/Contracter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/PermanentWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/WorkerApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,34 +21,123 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/Coin.java">
+        <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Worker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="135">
+              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/Planet.java">
+        <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/PermanentWorker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+            <state relative-caret-position="243">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Contracter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter11/PlanetApp.java">
+        <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/WorkerApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Director.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,6 +232,13 @@
         <option value="$PROJECT_DIR$/src/chapter11/CoinApp.java" />
         <option value="$PROJECT_DIR$/src/chapter11/Planet.java" />
         <option value="$PROJECT_DIR$/src/chapter11/PlanetApp.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/Worker.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/Employee.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/PermanentWorker.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/Manager.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/Director.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/Contracter.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/WorkerApp.java" />
       </list>
     </option>
   </component>
@@ -189,12 +286,6 @@
               <item name="JavaBootCamp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaBootCamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBootCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -206,7 +297,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552919706178" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552919740537" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="C:/../MVT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/pascal-data/apps/node-v6.10.0-win-x64/node" />
@@ -366,7 +457,7 @@
       <workItem from="1552486410560" duration="3731000" />
       <workItem from="1552574102266" duration="5209000" />
       <workItem from="1552637420916" duration="9531000" />
-      <workItem from="1552894688401" duration="21303000" />
+      <workItem from="1552894688401" duration="24324000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter9Done">
       <created>1552653546206</created>
@@ -382,22 +473,28 @@
       <option name="project" value="LOCAL" />
       <updated>1552915041934</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chapter11Done">
+      <created>1552919764399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552919764399</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95540000" />
+    <option name="totallyTimeSpent" value="98561000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1046" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.40271494" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19119227" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -408,7 +505,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.2734742" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.26666668" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.39885056" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -421,7 +518,7 @@
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.24973147" />
       <window_info anchor="right" id="Maven Projects" order="9" />
     </layout>
     <layout-to-restore>
@@ -464,7 +561,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter9Done" />
     <MESSAGE value="Chapter10Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter10Done" />
+    <MESSAGE value="Chapter11Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter11Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1034,6 +1132,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11/PlanetApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter11/Coin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1047,17 +1159,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/Planet.java">
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/PermanentWorker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        <state relative-caret-position="243">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/PlanetApp.java">
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/WorkerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Contracter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
