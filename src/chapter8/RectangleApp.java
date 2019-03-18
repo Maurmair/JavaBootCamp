@@ -31,7 +31,7 @@ public class RectangleApp {
         System.out.println("Breedte : " +rect.getWidth());
         System.out.println("Positie is: " + rect.getX() + ", " + rect.getY());
         System.out.println("Oppervlakte is : " + rect.getArea() + " vierkante meter");
-        System.out.println("Omtrekt is: " + rect.getPerimiter()+ " meter");
-        System.out.println("Aantal gemaakte rechthoeken: "+Rectangle.getCount());
+//        System.out.println("Omtrekt is: " + rect.getPerimiter()+ " meter");
+//        System.out.println("Aantal gemaakte rechthoeken: "+Rectangle.getCount());
     }
 }

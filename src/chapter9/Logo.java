@@ -41,4 +41,8 @@ public class Logo {
         return r.getArea()+c.getArea();
     }
 
+    public String toString(){
+        return "Dit is een string";
+    }
+
 }
