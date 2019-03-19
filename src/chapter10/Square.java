@@ -4,27 +4,27 @@ import chapter8.Rectangle;
 
 public class Square extends Rectangle {
     private static int count = 0;
-    public Square(){
+    public Square() throws Exception {
         this(0);
     }
 
-    public Square(int side) {
+    public Square(int side) throws Exception{
         super(side, side);
         count++;
     }
 
-    public Square(int side, int x,  int y) {
+    public Square(int side, int x,  int y) throws Exception {
         super(side, x, y, 0);
         count++;
     }
-    public Square(Square square) {
+    public Square(Square square) throws Exception{
         this.setSide(square.getSide());
         this.setHeight(square.getHeight());
         this.setWidth(square.getWidth());
         count++;
     }
 
-    public void setSide(int side){
+    public void setSide(int side) throws Exception{
         super.setHeight(side);
         super.setWidth(side);
     }
@@ -33,11 +33,11 @@ public class Square extends Rectangle {
         return getHeight();
     }
 
-    public void setHeight(int height) {
+    public void setHeight(int height) throws Exception{
         setSide(height);
     }
 
-    public void setWidth(int width) {
+    public void setWidth(int width) throws Exception {
         setSide(width);
     }
 

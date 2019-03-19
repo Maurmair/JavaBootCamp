@@ -1,7 +1,7 @@
 package chapter10;
 
 public class SquareApp {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         Square sq1 = new Square();
         System.out.println(sq1.toString("Een"));
         Square sq2 = new Square(2);

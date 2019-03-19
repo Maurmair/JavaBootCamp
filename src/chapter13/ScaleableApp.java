@@ -5,7 +5,7 @@ import chapter8.Circle;
 import chapter8.Rectangle;
 
 public class ScaleableApp {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws  Exception{
         Rectangle r = new Rectangle(2,4,8,10);
 //        System.out.println(r);
         r.scale(Scaleable.DOUBLE);

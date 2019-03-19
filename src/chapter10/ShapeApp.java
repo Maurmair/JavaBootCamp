@@ -4,7 +4,7 @@ import chapter8.Circle;
 import chapter8.Rectangle;
 
 public class ShapeApp {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
 
         Shape[] shapes = new Shape[3];
         shapes[0] = new Square(7);
