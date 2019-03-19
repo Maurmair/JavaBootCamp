@@ -14,20 +14,26 @@ public class Rectangle extends Shape implements Drawable {
     private int height;
     private int width;
 
-    public Rectangle(){
+    public Rectangle()throws Exception{
         this(0,0);
     }
 
-    public Rectangle(int height, int width){
+    public Rectangle (int height, int width)throws Exception{
         this(Math.abs(height),Math.abs(width),0,0);
     }
 
-    public Rectangle(int height, int width, int x, int y){
-        setX(x);
-        setY(y);
-        this.height = Math.abs(height);
-        this.width = Math.abs(width);
-        count++;
+    public Rectangle(int height, int width, int x, int y) throws Exception{
+        try{
+            setX(x);
+            setY(y);
+            this.height = Math.abs(height);
+            this.width = Math.abs(width);
+            count++;
+        } catch (Exception e){
+            System.out.println("Error");
+            System.out.println(e.getMessage());
+        }
+
     }
 
     public Rectangle(Rectangle bron) {
@@ -50,16 +56,24 @@ public class Rectangle extends Shape implements Drawable {
         return Math.abs(height);
     }
 
-    public void setHeight(final int height) {
-        this.height = Math.abs(height);
+    public void setHeight(final int height) throws Exception{
+        if (height<0) {
+            throw new Exception("Negative height");
+        } else {
+            this.height = height;
+        }
     }
 
     public int getWidth() {
         return Math.abs(width);
     }
 
-    public void setWidth(final int width) {
-        this.width = Math.abs(width);
+    public void setWidth(final int width) throws Exception{
+        if (width<0) {
+            throw new Exception("Negative width");
+        } else {
+            this.width = width;
+        }
     }
 
     public String toString(){
@@ -67,8 +81,14 @@ public class Rectangle extends Shape implements Drawable {
     }
 
     @Override
-    public void scale(final int factor) {
-        setWidth(width*factor);
-        setHeight(height*factor);
+    public void scale(final int factor)  {
+            try {
+                setWidth(width*factor);
+                setHeight(height*factor);
+            } catch (Exception e){
+                System.out.println(e);
+            }
+
+
     }
 }

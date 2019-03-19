@@ -1,7 +1,7 @@
 package chapter8;
 
 public class RectangleApp {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         System.out.println("This program uses a rectangle");
         Rectangle rect = new Rectangle();
         rect.setHeight(5);

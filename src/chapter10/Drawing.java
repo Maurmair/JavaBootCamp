@@ -1,9 +1,12 @@
 package chapter10;
 
+import java.util.Iterator;
+import java.util.function.Consumer;
+
 import chapter13.Drawable;
 import javafx.scene.canvas.GraphicsContext;
 
-public class Drawing implements Drawable{
+public class Drawing implements Drawable, Iterable{
 
     private Drawable[] shapes = new Drawable[100];
     private int size = 0;
@@ -73,5 +76,40 @@ public class Drawing implements Drawable{
             }
         }
         return sB.toString();
+    }
+
+    class DrawableIterator implements Iterator{
+        private int position = 0;
+        @Override
+        public boolean hasNext() {
+            if (position < shapes.length){
+                return true;
+            }
+            return false;
+        }
+
+        @Override
+        public Object next() {
+            if (this.hasNext()){
+                return shapes[position++];
+            } else {
+                return null;
+            }
+        }
+
+        @Override
+        public void remove() {
+
+        }
+
+        @Override
+        public void forEachRemaining(final Consumer action) {
+
+        }
+    }
+
+    @Override
+    public Iterator iterator() {
+        return new DrawableIterator();
     }
 }
