@@ -1,8 +1,9 @@
 package chapter8;
 
 import chapter10.Shape;
+import chapter13.Drawable;
 
-public class Circle extends Shape {
+public class Circle extends Shape implements Drawable {
     public static final int ANGLES = 0;
     private static int count = 0;
     private int radius;
@@ -53,7 +54,11 @@ public class Circle extends Shape {
     }
 
     public String toString(){
-        return "X:\t" + getX() + "\nY:\t" + getY();
+        return "Radius:\t"+ radius + "\tX:\t" + getX() + "Y:\t" + getY();
     }
 
+    @Override
+    public void scale(final int factor) {
+        setRadius(radius*factor);
+    }
 }

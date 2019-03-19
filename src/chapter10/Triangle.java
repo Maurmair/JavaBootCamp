@@ -1,6 +1,8 @@
 package chapter10;
 
-public class Triangle extends Shape {
+import chapter13.Drawable;
+
+public class Triangle extends Shape implements Drawable {
     private final static int ANGLES = 3;
     private static int count = 0;
     private int height;
@@ -67,5 +69,10 @@ public class Triangle extends Shape {
 
     public String toString(){
         return "Height:\t" +height + "\nWidth:\t" + width + "\nPerpendicular:\t"+perpendicular;
+    }
+
+    @Override
+    public void scale(final int factor) {
+
     }
 }

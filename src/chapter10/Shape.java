@@ -1,6 +1,9 @@
 package chapter10;
 
-public abstract class Shape {
+import chapter13.Drawable;
+import javafx.scene.canvas.GraphicsContext;
+
+public abstract class Shape implements Drawable {
     private int x;
     private int y;
     private static int count = 0;
@@ -38,5 +41,10 @@ public abstract class Shape {
     public abstract double getPerimeter();
     public int getCount(){
         return this.count;
+    }
+
+    @Override
+    public void draw(final GraphicsContext g) {
+
     }
 }

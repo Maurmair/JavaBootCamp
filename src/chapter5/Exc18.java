@@ -2,11 +2,13 @@ package chapter5;
 
 public class Exc18 {
     public static void main(String[] args) {
+        KeyBoardUtilityImpl kImp = new KeyBoardUtilityImpl();
+        BmiUtilityImpl bImp = new BmiUtilityImpl();
         System.out.println("Enter your length (cm) :");
-        int height = KeyBoardUtility.readInt();
+        int height = kImp.readInt();
         System.out.println("Enter your weight (kg)");
-        int weight = KeyBoardUtility.readInt();
-        float bmi = BmiUtility.calculateBmi(weight, height);
-        BmiUtility.printDiagnose(bmi);
+        int weight = kImp.readInt();
+        float bmi = bImp.calculateBmi(weight, height);
+        bImp.printDiagnose(bmi);
     }
 }

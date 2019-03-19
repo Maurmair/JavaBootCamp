@@ -1,8 +1,9 @@
 package chapter8;
 
 import chapter10.*;
+import chapter13.Drawable;
 
-public class Rectangle extends Shape {
+public class Rectangle extends Shape implements Drawable {
     private static final int ANGLES = 4;
 
     public static int getANGLES() {
@@ -62,7 +63,12 @@ public class Rectangle extends Shape {
     }
 
     public String toString(){
-        return "X:\t" + getX() + "\nY:\t" + getY();
+        return "X:\t" + getX() + "\tY:\t" + getY() +"\tWidth: \t" + width + "\tHeight: \t" + height;
     }
 
+    @Override
+    public void scale(final int factor) {
+        setWidth(width*factor);
+        setHeight(height*factor);
+    }
 }

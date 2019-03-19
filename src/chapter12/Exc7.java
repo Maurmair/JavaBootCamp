@@ -14,7 +14,6 @@ public class Exc7 {
 
         DateTimeFormatter dtf2 = DateTimeFormatter.ofPattern("yyyy/MM/dd");
 
-
         System.out.println(dtf1.format(now));
         System.out.println(dtf2.format(now));
     }
