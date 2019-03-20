@@ -6,23 +6,105 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b75c6d-7917-4845-969b-84fe5635acb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/oiasd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/ComparableDuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/Duo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/DuoUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/GeneralPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/GenericApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/IntegerDuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/MixedDuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/NumberDuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/Shoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/ShoePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/StringDuo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter8/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BootCamp/chapter8/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/RectangleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8/RectangleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/AnimalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/AnimalApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Drawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/DrawingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/DrawingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/ShapeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/ShapeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/SquareApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/SquareApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/Coin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11/CoinApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/CoinApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11/DayApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/DayApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11/PlanetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/PlanetApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter13/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter13/MyPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/MyPig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter13/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter13/PigApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/PigApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter13/Scaleable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/Scaleable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter13/ScaleableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/ScaleableApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter14/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter14/Musician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter14/MusicianApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/MusicianApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/Exc1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter15ExceptionHandling/Exc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/NegativeSizeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/NegativeSizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter15ExceptionHandling/NegativeSizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/ComparableDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/ComparableDuo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/Duo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/Duo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/DuoUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/DuoUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/GeneralPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/GeneralPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/GenericApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/GenericApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/IntegerDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/IntegerDuo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/MixedDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/MixedDuo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/NumberDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/NumberDuo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/Shoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/Shoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/ShoePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/ShoePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/StringDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/StringDuo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Arithmatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Arithmatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/BmiUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/BmiUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/BmiUtilityImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/BmiUtilityImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/DataTypesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/DataTypesApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc14A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc14A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc14B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc14B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc15A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc15A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/KeyBoardUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/KeyBoardUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/KeyBoardUtilityImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/KeyBoardUtilityImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6OO/Exc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6OO/Exc3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6OO/Exc4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6OO/Exc5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/CircleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/CircleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/RectangleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/RectangleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/HLGameApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/HLGameApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/HigherLowerGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/HigherLowerGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/Logo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/Logo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/LogoAppp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/LogoAppp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/Room.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,37 +116,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter17/GenericApp.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="351">
+              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
               <folding>
-                <element signature="method#fourth#0;class#GenericApp#0" />
-                <element signature="method#first#0;class#GenericApp#0" />
-                <element signature="method#second#0;class#GenericApp#0" />
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter17/DuoUtility.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-              <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/oiasd.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -155,6 +223,10 @@
         <option value="$PROJECT_DIR$/src/chapter17/GenericApp.java" />
         <option value="$PROJECT_DIR$/src/LosseOefeningen/oiasd.java" />
         <option value="$PROJECT_DIR$/src/chapter17/DuoUtility.java" />
+        <option value="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" />
       </list>
     </option>
   </component>
@@ -208,13 +280,7 @@
               <item name="JavaBootCamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBootCamp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBootCamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBootCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter18LambdaExpressions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,7 +293,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553090489068" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553093571478" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="C:/../MVT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/pascal-data/apps/node-v6.10.0-win-x64/node" />
@@ -264,12 +330,12 @@
       </method>
     </configuration>
     <configuration name="Exc4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12.Exc4" />
+      <option name="MAIN_CLASS_NAME" value="chapter12SimpleClasses.Exc4" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter12.*" />
+          <option name="PATTERN" value="chapter12SimpleClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +344,12 @@
       </method>
     </configuration>
     <configuration name="GenericApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter17.GenericApp" />
+      <option name="MAIN_CLASS_NAME" value="chapter17Generics.GenericApp" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter17.*" />
+          <option name="PATTERN" value="chapter17Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,12 +358,12 @@
       </method>
     </configuration>
     <configuration name="LogoAppp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9.LogoAppp" />
+      <option name="MAIN_CLASS_NAME" value="chapter9Associations.LogoAppp" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9.*" />
+          <option name="PATTERN" value="chapter9Associations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,12 +372,12 @@
       </method>
     </configuration>
     <configuration name="RectangleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8.RectangleApp" />
+      <option name="MAIN_CLASS_NAME" value="chapter8ClassDefenition.RectangleApp" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8.*" />
+          <option name="PATTERN" value="chapter8ClassDefenition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,12 +386,12 @@
       </method>
     </configuration>
     <configuration name="ShapeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.ShapeApp" />
+      <option name="MAIN_CLASS_NAME" value="chapter10InheritanceAndClassHirarchy.ShapeApp" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.*" />
+          <option name="PATTERN" value="chapter10InheritanceAndClassHirarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -424,11 +490,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553067410419</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Chapter17Done">
+      <created>1553092214631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553092214631</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125659000" />
+    <option name="totallyTimeSpent" value="127555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
@@ -519,39 +592,40 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Chapter9Done" />
     <MESSAGE value="Chapter10Done" />
     <MESSAGE value="Chapter11Done" />
     <MESSAGE value="ignoring" />
     <MESSAGE value="Chapter16Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter16Done" />
+    <MESSAGE value="Chapter17Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter17Done" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter5/Exc12.java</url>
+          <url>file://$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc12.java</url>
           <line>6</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter5/Exc15A.java</url>
+          <url>file://$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc15A.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter5/Exc18.java</url>
+          <url>file://$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc18.java</url>
           <line>4</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter7/Exc3.java</url>
+          <url>file://$PROJECT_DIR$/src/chapter7Arrays/Exc3.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="18" />
@@ -569,7 +643,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter9/Owner.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter9Associations/Owner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
@@ -586,7 +660,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/Room.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter9Associations/Room.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
@@ -601,7 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/Pet.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter9Associations/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
@@ -612,35 +686,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/House.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter9Associations/House.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/HLGameApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter9Associations/HLGameApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/HigherLowerGame.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter9Associations/HigherLowerGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/Exc3.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter7Arrays/Exc3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Fish.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Fish.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="5" />
@@ -658,7 +732,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter10/Sbaje.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Bird.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
@@ -674,7 +748,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Snake.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Snake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
@@ -691,7 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -702,7 +776,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
@@ -717,24 +791,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/AnimalApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/AnimalApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter8/CircleApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter8ClassDefenition/CircleApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter8/Rectangle.class">
+    <entry file="file://$PROJECT_DIR$/src/chapter8ClassDefenition/Rectangle.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/Logo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter9Associations/Logo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
@@ -750,7 +824,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/DrawingApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/DrawingApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
@@ -760,14 +834,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/DayApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/DayApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/Day.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/Day.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
@@ -782,28 +856,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/CoinApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/CoinApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/Planet.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/PlanetApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/PlanetApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11/Coin.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/Coin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
@@ -859,14 +933,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter12/Exc2.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter12SimpleClasses/Exc2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter12/Exc1.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter12SimpleClasses/Exc1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
@@ -882,14 +956,14 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/time/LocalDate.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter13/ScaleableApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter13Interfaces/ScaleableApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/ShapeApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/ShapeApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
@@ -899,7 +973,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter9/LogoAppp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter9Associations/LogoAppp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
@@ -909,14 +983,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Square.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter15/NegativeSizeException.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15ExceptionHandling/NegativeSizeException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
@@ -933,35 +1007,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/SquareApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/SquareApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter8/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter8ClassDefenition/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Drawing.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Drawing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter10/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
@@ -971,7 +1045,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter8/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter8ClassDefenition/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
@@ -993,7 +1067,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter15/Exc1.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter15ExceptionHandling/Exc1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
@@ -1010,7 +1084,7 @@
     <entry file="file://$PROJECT_DIR$/src/chapter17/Exc1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/MixedDuo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/MixedDuo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-134">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
@@ -1026,7 +1100,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter12/Exc3.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter12SimpleClasses/Exc3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
@@ -1036,21 +1110,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter8/RectangleApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter8ClassDefenition/RectangleApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter12/Exc4.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter12SimpleClasses/Exc4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/NumberDuo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/NumberDuo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
@@ -1069,7 +1143,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/IntegerDuo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/IntegerDuo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
@@ -1080,7 +1154,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/StringDuo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/StringDuo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
@@ -1091,14 +1165,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/Pair.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/Pair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/ShoePair.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/ShoePair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
@@ -1115,7 +1189,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/GeneralPair.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/GeneralPair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
@@ -1132,7 +1206,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/Shoe.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/Shoe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -1147,7 +1221,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/ComparableDuo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/ComparableDuo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -1162,14 +1236,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/Duo.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/Duo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/GenericApp.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/GenericApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
@@ -1188,14 +1262,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/DuoUtility.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter17Generics/DuoUtility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        <state relative-caret-position="151">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
           <folding>
             <element signature="e#91#92#0" expanded="true" />
             <element signature="e#162#163#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Instrument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/MusicianApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
