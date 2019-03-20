@@ -10,9 +10,15 @@ public class TextPrinter {
 
     public void printFilteredWords(WordFilter filter){
         for (String w : sentence.split(" ")) {
-//            if (filter.isValid(w)) {
-                System.out.println(w);
-//            }
+            if (filter.isValid(w)) {
+                System.out.println(w+"\t");
+            }
+        }
+    }
+
+    public void printPorcessedWords(WordProcessor processor) {
+        for (String s : sentence.split(" ")) {
+            System.out.println(processor.process(s));
         }
     }
 }

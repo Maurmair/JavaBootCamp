@@ -6,107 +6,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b75c6d-7917-4845-969b-84fe5635acb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09d0ed98d961d4fa058d0948531b789e24ef3135" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f62af68bb3ad99e063bf22742da42ff33cdaf0a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1232c8205da18bfbc5e27f0a46ead4e10907c2e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/2621186a26a42c82a671f81e60267585abab1541" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/327f26d05dc3bbcbb2f4ff4cd2c883267368af01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e3b65df3c6b60f15dae95f9e7b225b85453c16a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/4332d6fdedf646de51e5991b29c29bf879de705b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/450a425016398cbbaddc191fc4153561d8fcf3a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/492a0fa847f70e25763a10c762b478bdb20a5709" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a1fb0c50ec44a9b3a1fee1acd8d2eb83dba1803" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d1dba1f866a28500bfcf6c68774ba669bdee0db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/5367837bf245053e672cea5de8cd59523ad8767a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59c8a1026266dbd55c444720e6bde03c6a34511b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59f80ff2c850e68a6fdcd6f1dbb917414a75f5e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b352aebcd0273005e3e93f495fa767cbff73626" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69dcfa242f750268f854b47c02df12fa6307d95a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e22d32a1c62231c1f5adf9fe7df1472dba6d3e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704649a286145ca93583d5f2ef7d1963e1cacf6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/712f7d2747fe364064aa1783b7b74ceb29d80840" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d03e7b54b2fb446260ad2507bebb01071ded20e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/811e9738432d2ccc9c07ab708b409f3090643b2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/876d5c291fa96888b2744a080ed874a38e99541b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa36e025adce747aabbe3d6e438d29836442d322" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acd39c36084ca673039fcc0bfe539c586f6211ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae2b61e588ee6b8c22950111550fa81ed7c614bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b79f0bbc0a19c3d12bb50334eafbb4c970cd52b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba149da54c04125a7e5d51e0e2cac8aba8f6a4e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/beb7411ad285f40c3989d1f466087102b6097601" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6a44035f81b7139f3a974d1fe82e47bea404de2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8fb6661ba2608877da6eac3770bb35bc0f6214f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d504fe4886bbfb9c79648b074512b0adc2a03795" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d877a4d9cb6f3bf6255b1eb93e266fae4bd5f88d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de8b35517510a482860b5aba0d66efc80757f9ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6fa18c4770fea26ce5264fee0d410a128a29736" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9c6c1769f5f3df72718157ee19b86031193932d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec30a5a9f46ad28160c0a4273f2fc9a4e05cfd49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee7f4692382c3b65e8fde3947bf5455bdc08b325" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/eff490600a8de3d1c7c49f227544cb291cbc907d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1ed8ab6abc0b96316a403df4d55e6e3d50cf9a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f24af57fee9d721367372a6312a47cbaf6cf6271" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/AnimalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/AnimalApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/DrawingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/DrawingApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/ShapeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/ShapeApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/SquareApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/SquareApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10InheritanceAndClassHirarchy/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter11/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/Coin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter11/CoinApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/CoinApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter11/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/Day.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter11/DayApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/DayApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter11/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter11/PlanetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Enums/PlanetApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter12/Exc7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12SimpleClasses/Exc7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter13/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/Drawable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter13/MyPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/MyPig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter13/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/Pig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter13/PigApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/PigApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter13/Scaleable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/Scaleable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter13/ScaleableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13Interfaces/ScaleableApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter14/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter14/Musician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter14/MusicianApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/MusicianApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter15/Exc1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter15/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter15ExceptionHandling/Exc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter15/NegativeSizeException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter15/NegativeSizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter15ExceptionHandling/NegativeSizeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/ComparableDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/ComparableDuo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/Duo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/Duo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/DuoUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/DuoUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/GeneralPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/GeneralPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/GenericApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/GenericApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/IntegerDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/IntegerDuo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/MixedDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/MixedDuo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/NumberDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/NumberDuo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/Shoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/Shoe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/ShoePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/ShoePair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/StringDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17Generics/StringDuo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Arithmatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Arithmatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/BmiUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/BmiUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/BmiUtilityImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/BmiUtilityImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/DataTypesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/DataTypesApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc14A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc14A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc14B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc14B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc15A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc15A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Exc9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/Exc9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/KeyBoardUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/KeyBoardUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/KeyBoardUtilityImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5JavaProgrameertaal/KeyBoardUtilityImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6OO/Exc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6OO/Exc3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6OO/Exc4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Exc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6OO/Exc5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter7/Exc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Arrays/Exc5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/CircleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/CircleApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/RectangleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8ClassDefenition/RectangleApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/HLGameApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/HLGameApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/HigherLowerGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/HigherLowerGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/Logo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/Logo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/LogoAppp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/LogoAppp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/Owner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Associations/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Arithmatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/BmiUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/DataTypesApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc14A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc14B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc15A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/KeyBoardUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter6/Exc1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter6/Exc3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter6/Exc4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter6/Exc5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter8/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter8/RectangleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="C:\Projects\JavaBootCamp\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,11 +98,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="324">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,8 +120,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -225,8 +232,10 @@
         <option value="$PROJECT_DIR$/src/chapter17/DuoUtility.java" />
         <option value="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java" />
         <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" />
-        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordProcessor.java" />
         <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextUtil.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" />
       </list>
     </option>
   </component>
@@ -244,14 +253,20 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2274" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -263,7 +278,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,6 +300,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -293,7 +308,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553093571478" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553112887497" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="C:/../MVT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/pascal-data/apps/node-v6.10.0-win-x64/node" />
@@ -322,23 +337,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericApp">
+  <component name="RunManager" selected="Application.TextApp">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exc4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12SimpleClasses.Exc4" />
-      <module name="BootCamp" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter12SimpleClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -399,6 +400,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TextApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter18LambdaExpressions.TextApp" />
+      <module name="BootCamp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter18LambdaExpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -420,19 +435,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Exc4" />
       <item itemvalue="Application.RectangleApp" />
       <item itemvalue="Application.ShapeApp" />
       <item itemvalue="Application.LogoAppp" />
       <item itemvalue="Application.GenericApp" />
+      <item itemvalue="Application.TextApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextApp" />
         <item itemvalue="Application.GenericApp" />
         <item itemvalue="Application.RectangleApp" />
         <item itemvalue="Application.LogoAppp" />
         <item itemvalue="Application.ShapeApp" />
-        <item itemvalue="Application.Exc4" />
       </list>
     </recent_temporary>
   </component>
@@ -454,6 +469,7 @@
       <workItem from="1552574102266" duration="5209000" />
       <workItem from="1552637420916" duration="9531000" />
       <workItem from="1552894688401" duration="24324000" />
+      <workItem from="1553102541544" duration="5851000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter9Done">
       <created>1552653546206</created>
@@ -497,11 +513,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553092214631</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Chapter17Done">
+      <created>1553094713734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553094713734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127555000" />
+    <option name="totallyTimeSpent" value="133476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
@@ -511,7 +534,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19924812" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2019334" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -532,7 +555,7 @@
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32975295" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.24973147" />
@@ -1074,16 +1097,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter17/Exc1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter17.java" />
+    <entry file="file://$PROJECT_DIR$/src/chapter17/Exc1.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter17Generics/MixedDuo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-134">
@@ -1296,26 +1311,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="324">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

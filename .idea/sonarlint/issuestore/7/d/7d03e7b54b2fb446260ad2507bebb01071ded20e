@@ -1,41 +1,0 @@
-
-e$squid:AssignmentInSubExpressionCheck	".Extract the assignment out of this expression.(§ÕÿÀ8æğºè–-
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(ØÙi8±ª¹è–-
-[
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(Ã¼øûÿÿÿÿ8†²»è–-
-e$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ó»¦ƒ8Õ»½è–-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÔŞõŞ8ç˜½è–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(÷¯Ì¯ıÿÿÿÿ8ÎÙ¾è–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(‰ùâêûÿÿÿÿ8°¿¿è–-
-j$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(É¡ÇÊıÿÿÿÿ8ï¿è–-
-j$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ş½á”øÿÿÿÿ8“è½è–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ş½á”øÿÿÿÿ8“è½è–-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¦À¨•8ç˜½è–-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ˆÅŸşÿÿÿÿ
-V
-squid:S106	"9Replace this use of System.out or System.err by a logger.(§ÕÿÀ8”†ºè–-
-e$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ÔŞõŞ8ç˜½è–-
-j$squid:AssignmentInSubExpressionCheck
-".Extract the assignment out of this expression.(Ã¼øûÿÿÿÿ8†²»è–-
-j$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(÷¯Ì¯ıÿÿÿÿ8ÎÙ¾è–-
-e$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(„İ–°8Á”¾è–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(É¡ÇÊıÿÿÿÿ8ï¿è–-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ó»¦ƒ8Õ»½è–-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¸¡ì8öÏ¼è–-
-e$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¸¡ì8öÏ¼è–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(©¨ÑÈùÿÿÿÿ8ÀÛ¹è–-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(„İ–°8Á”¾è–-
-e$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¦À¨•8ç˜½è–-
-j$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‰ùâêûÿÿÿÿ8°¿¿è–-

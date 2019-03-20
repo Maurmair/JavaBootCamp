@@ -1,8 +1,0 @@
-
-Gsquid:S1481")Remove this unused "name" local variable.(ûš—È8­­×é–-
-Psquid:S1199"-Extract this nested code block into a method.(Ãõò¦ÿÿÿÿÿ8ÖäØé–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ãõò¦ÿÿÿÿÿ8­¨Öé–-
-Vsquid:S1854"8Remove this useless assignment to local variable "name".(ûš—È8­­×é–-
-Ksquid:S1199"-Extract this nested code block into a method.(ûš—È8­­×é–-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ˆÅŸþÿÿÿÿ

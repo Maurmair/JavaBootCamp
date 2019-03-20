@@ -1,20 +1,0 @@
-
-Xsquid:S1854":Remove this useless assignment to local variable "CELLAR".(Ûê€ÿ8ø„Àç–-
-Ysquid:S1854";Remove this useless assignment to local variable "LAUNDRY".(ˆ–™„8Ã¿—è–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(í‚Å—şÿÿÿÿ8µ€è–-
-Jsquid:S1481",Remove this unused "LAUNDRY" local variable.(ˆ–™„8Ã¿—è–-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(–°±8¿æòç–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(•Ì™ùÿÿÿÿ8ßµ‡è–-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(¸Ëû‰úÿÿÿÿ8ÕÔè–-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ˆÅŸşÿÿÿÿ
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ëî€£8Ä¸çç–-
-Isquid:S1481"+Remove this unused "CELLAR" local variable.(Ûê€ÿ8ø„Àç–-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(„ˆä8ø¢Ïç–-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿìí©8áùúç–-
