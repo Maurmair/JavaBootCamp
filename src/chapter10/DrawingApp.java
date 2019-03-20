@@ -4,6 +4,9 @@ import java.util.Iterator;
 
 import chapter8.Circle;
 
+/**
+ * App for creating a {@Link Drawing} object and filling it with a list of {@LinkShapes}
+ */
 public class DrawingApp {
     public static void main(String[] args) {
         Drawing drawing = new Drawing();

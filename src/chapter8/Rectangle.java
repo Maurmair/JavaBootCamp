@@ -1,8 +1,13 @@
 package chapter8;
 
-import chapter10.*;
+import chapter10.Shape;
 import chapter13.Drawable;
 
+/**
+ * {@Link Rectangle} Object
+ * subclass of {@Link Shape}
+ * uses the {@Link Drawable} interface
+ */
 public class Rectangle extends Shape implements Drawable {
     private static final int ANGLES = 4;
 
@@ -14,14 +19,32 @@ public class Rectangle extends Shape implements Drawable {
     private int height;
     private int width;
 
+    /**
+     * Default constructor
+     * @throws Exception
+     */
     public Rectangle()throws Exception{
         this(0,0);
     }
 
+    /**
+     *
+     * @param height
+     * @param width
+     * @throws Exception
+     */
     public Rectangle (int height, int width)throws Exception{
         this(Math.abs(height),Math.abs(width),0,0);
     }
 
+    /**
+     *
+     * @param height
+     * @param width
+     * @param x
+     * @param y
+     * @throws Exception
+     */
     public Rectangle(int height, int width, int x, int y) throws Exception{
         try{
             setX(x);
@@ -36,18 +59,36 @@ public class Rectangle extends Shape implements Drawable {
 
     }
 
+    /**
+     *
+     * @param bron
+     */
     public Rectangle(Rectangle bron) {
         this.width = bron.getWidth();
         this.height= bron.getHeight();
         count++;
     }
+
+    /**
+     *
+     * @param d factor to grow {@Link Rectangle} with
+     */
     public void grow(int d){
 
     }
+
+    /**
+     *
+     * @return Oppervlakte
+     */
     public double getArea(){
         return Math.abs(this.height*this.width);
     }
 
+    /**
+     *
+     * @return Omtrek
+     */
     public double getPerimeter(){
         return Math.abs((this.height*2)+(this.width*2));
     }
@@ -56,6 +97,11 @@ public class Rectangle extends Shape implements Drawable {
         return Math.abs(height);
     }
 
+    /**
+     *
+     * @param height
+     * @throws Exception voor negatief getal
+     */
     public void setHeight(final int height) throws Exception{
         if (height<0) {
             throw new Exception("Negative height");
@@ -80,6 +126,10 @@ public class Rectangle extends Shape implements Drawable {
         return "X:\t" + getX() + "\tY:\t" + getY() +"\tWidth: \t" + width + "\tHeight: \t" + height;
     }
 
+    /**
+     *
+     * @param factor
+     */
     @Override
     public void scale(final int factor)  {
             try {
