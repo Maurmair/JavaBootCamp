@@ -211,3 +211,7 @@ _
 /src/chapter18LambdaExpressions/TextPrinter.java,a\6\a6a758fc96df2a23b422fcba99c494504a02b5fe
 [
 +src/chapter18LambdaExpressions/TextApp.java,a\8\a8d67aac38f047ca740ae355822505659237c4a5
+\
+,src/chapter18LambdaExpressions/TextUtil.java,3\e\3e8ae0015a62f868e498f8e4eb2be62d1d5a71fb
+a
+1src/chapter18LambdaExpressions/WordProcessor.java,0\4\04f2f67eb15f5ae7076014d62af5859ff4baac34

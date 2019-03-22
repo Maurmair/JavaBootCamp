@@ -6,84 +6,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3b75c6d-7917-4845-969b-84fe5635acb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09d0ed98d961d4fa058d0948531b789e24ef3135" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f62af68bb3ad99e063bf22742da42ff33cdaf0a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1232c8205da18bfbc5e27f0a46ead4e10907c2e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/2621186a26a42c82a671f81e60267585abab1541" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/327f26d05dc3bbcbb2f4ff4cd2c883267368af01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e3b65df3c6b60f15dae95f9e7b225b85453c16a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/4332d6fdedf646de51e5991b29c29bf879de705b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/450a425016398cbbaddc191fc4153561d8fcf3a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/492a0fa847f70e25763a10c762b478bdb20a5709" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a1fb0c50ec44a9b3a1fee1acd8d2eb83dba1803" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d1dba1f866a28500bfcf6c68774ba669bdee0db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/5367837bf245053e672cea5de8cd59523ad8767a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59c8a1026266dbd55c444720e6bde03c6a34511b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59f80ff2c850e68a6fdcd6f1dbb917414a75f5e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b352aebcd0273005e3e93f495fa767cbff73626" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69dcfa242f750268f854b47c02df12fa6307d95a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e22d32a1c62231c1f5adf9fe7df1472dba6d3e1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704649a286145ca93583d5f2ef7d1963e1cacf6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/712f7d2747fe364064aa1783b7b74ceb29d80840" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d03e7b54b2fb446260ad2507bebb01071ded20e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/811e9738432d2ccc9c07ab708b409f3090643b2c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/876d5c291fa96888b2744a080ed874a38e99541b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa36e025adce747aabbe3d6e438d29836442d322" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acd39c36084ca673039fcc0bfe539c586f6211ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae2b61e588ee6b8c22950111550fa81ed7c614bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b79f0bbc0a19c3d12bb50334eafbb4c970cd52b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba149da54c04125a7e5d51e0e2cac8aba8f6a4e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/beb7411ad285f40c3989d1f466087102b6097601" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6a44035f81b7139f3a974d1fe82e47bea404de2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8fb6661ba2608877da6eac3770bb35bc0f6214f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d504fe4886bbfb9c79648b074512b0adc2a03795" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d877a4d9cb6f3bf6255b1eb93e266fae4bd5f88d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de8b35517510a482860b5aba0d66efc80757f9ab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6fa18c4770fea26ce5264fee0d410a128a29736" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9c6c1769f5f3df72718157ee19b86031193932d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec30a5a9f46ad28160c0a4273f2fc9a4e05cfd49" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee7f4692382c3b65e8fde3947bf5455bdc08b325" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/eff490600a8de3d1c7c49f227544cb291cbc907d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1ed8ab6abc0b96316a403df4d55e6e3d50cf9a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f24af57fee9d721367372a6312a47cbaf6cf6271" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/NumberParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextScrambler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Arithmatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/BmiUtility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/DataTypesApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc14A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc14B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc15A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/Exc9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/Chapter5/KeyBoardUtility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter6/Exc1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter6/Exc3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter6/Exc4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter6/Exc5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter7/Exc5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter8/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BootCamp/chapter8/RectangleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="C:\Projects\JavaBootCamp\.idea\shelf/" />
@@ -93,25 +22,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaBootCamp" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+            <state relative-caret-position="216">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,17 +44,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="189">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordProcessor.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/NumberParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="54">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -138,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="108">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -151,6 +75,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -230,14 +155,25 @@
         <option value="$PROJECT_DIR$/src/chapter17/GenericApp.java" />
         <option value="$PROJECT_DIR$/src/LosseOefeningen/oiasd.java" />
         <option value="$PROJECT_DIR$/src/chapter17/DuoUtility.java" />
-        <option value="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java" />
         <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java" />
         <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/WordProcessor.java" />
-        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" />
         <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextUtil.java" />
+        <option value="$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextScrambler.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/NumberParser.java" />
+        <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java" />
         <option value="$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java" />
       </list>
     </option>
+  </component>
+  <component name="JQLSearcherManager">
+    <searchers>
+      <JQLSearcher alias="Assigned to me" jql="assignee = currentUser()" />
+    </searchers>
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -278,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,7 +237,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -308,7 +244,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553112887497" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553262753119" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="C:/../MVT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/pascal-data/apps/node-v6.10.0-win-x64/node" />
@@ -469,7 +405,8 @@
       <workItem from="1552574102266" duration="5209000" />
       <workItem from="1552637420916" duration="9531000" />
       <workItem from="1552894688401" duration="24324000" />
-      <workItem from="1553102541544" duration="5851000" />
+      <workItem from="1553102541544" duration="5923000" />
+      <workItem from="1553242763587" duration="13780000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter9Done">
       <created>1552653546206</created>
@@ -520,22 +457,31 @@
       <option name="project" value="LOCAL" />
       <updated>1553094713734</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Chapter19E1Done">
+      <created>1553113347537</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553113347537</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133476000" />
+    <option name="totallyTimeSpent" value="147328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.5007825" side_tool="true" visible="true" weight="0.20461869" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2019334" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49921754" visible="true" weight="0.20461869" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="JIRA" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="2" />
@@ -545,7 +491,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.26551723" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.26551723" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.39885056" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -622,7 +568,8 @@
     <MESSAGE value="ignoring" />
     <MESSAGE value="Chapter16Done" />
     <MESSAGE value="Chapter17Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter17Done" />
+    <MESSAGE value="Chapter19E1Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter19E1Done" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1288,13 +1235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Instrument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/MusicianApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1302,49 +1242,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Instrument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter14NestedAndAnonymousClasses/Musician.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="324">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextScrambler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="81">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        <state relative-caret-position="162">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/WordFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/NumberParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter18LambdaExpressions/TextApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="189">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
