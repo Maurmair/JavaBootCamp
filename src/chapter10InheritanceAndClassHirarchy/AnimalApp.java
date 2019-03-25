@@ -1,5 +1,7 @@
 package chapter10InheritanceAndClassHirarchy;
 
+import graphics.Snake;
+
 public class AnimalApp {
     public static void main(String[] args) {
         Cat catOne = new Cat();

@@ -1,4 +1,6 @@
-package chapter10InheritanceAndClassHirarchy;
+package graphics;
+
+import chapter10InheritanceAndClassHirarchy.Animal;
 
 public class Snake extends Animal {
     public Snake(){

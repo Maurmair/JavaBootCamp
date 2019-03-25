@@ -1,4 +1,4 @@
-package chapter15ExceptionHandling;
+package graphics;
 
 public class NegativeSizeException extends IllegalArgumentException {
     public NegativeSizeException(){

@@ -1,7 +1,7 @@
 package chapter9Associations;
 
-import chapter8ClassDefenition.Circle;
-import chapter8ClassDefenition.Rectangle;
+import graphics.Circle;
+import graphics.Rectangle;
 
 public class Logo {
     private Rectangle r;

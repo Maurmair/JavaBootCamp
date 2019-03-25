@@ -1,7 +1,4 @@
-package chapter10InheritanceAndClassHirarchy;
-
-import chapter8ClassDefenition.Circle;
-import chapter8ClassDefenition.Rectangle;
+package graphics;
 
 public class ShapeApp {
     public static void main(String[] args) throws Exception{

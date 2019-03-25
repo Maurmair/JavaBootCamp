@@ -1,4 +1,4 @@
-package chapter8ClassDefenition;
+package graphics;
 
 public class RectangleApp {
     public static void main(String[] args) throws Exception{

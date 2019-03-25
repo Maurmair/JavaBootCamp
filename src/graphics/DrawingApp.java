@@ -1,8 +1,6 @@
-package chapter10InheritanceAndClassHirarchy;
+package graphics;
 
 import java.util.Iterator;
-
-import chapter8ClassDefenition.Circle;
 
 /**
  * App for creating a {@Link Drawing} object and filling it with a list of {@LinkShapes}

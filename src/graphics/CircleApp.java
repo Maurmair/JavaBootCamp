@@ -1,4 +1,4 @@
-package chapter8ClassDefenition;
+package graphics;
 
 public class CircleApp {
     public static void main(String[] args) {

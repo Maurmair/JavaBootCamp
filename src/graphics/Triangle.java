@@ -1,6 +1,4 @@
-package chapter10InheritanceAndClassHirarchy;
-
-import chapter13Interfaces.Drawable;
+package graphics;
 
 public class Triangle extends Shape implements Drawable {
     private final static int ANGLES = 3;

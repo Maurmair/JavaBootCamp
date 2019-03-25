@@ -1,7 +1,4 @@
-package chapter8ClassDefenition;
-
-import chapter10InheritanceAndClassHirarchy.Shape;
-import chapter13Interfaces.Drawable;
+package graphics;
 
 /**
  * {@Link Rectangle} Object

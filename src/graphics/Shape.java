@@ -1,6 +1,5 @@
-package chapter10InheritanceAndClassHirarchy;
+package graphics;
 
-import chapter13Interfaces.Drawable;
 import javafx.scene.canvas.GraphicsContext;
 
 public abstract class Shape implements Drawable {
@@ -40,7 +39,7 @@ public abstract class Shape implements Drawable {
     public abstract double getArea();
     public abstract double getPerimeter();
     public int getCount(){
-        return this.count;
+        return count;
     }
 
     @Override

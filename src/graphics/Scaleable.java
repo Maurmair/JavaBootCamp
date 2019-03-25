@@ -1,4 +1,4 @@
-package chapter13Interfaces;
+package graphics;
 
 public interface Scaleable {
     int DOUBLE = 200;
@@ -6,11 +6,11 @@ public interface Scaleable {
     int QUARTER = 25;
 
     void scale(int factor);
-    public default void scaleDouble(){
+    default void scaleDouble(){
         scale(DOUBLE);
     }
 
-    public default void scaleHalf(){
+    default void scaleHalf(){
         scale(HALF);
     }
 }

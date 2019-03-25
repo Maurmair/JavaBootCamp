@@ -1,8 +1,4 @@
-package chapter13Interfaces;
-
-import chapter10InheritanceAndClassHirarchy.Drawing;
-import chapter8ClassDefenition.Circle;
-import chapter8ClassDefenition.Rectangle;
+package graphics;
 
 public class ScaleableApp {
     public static void main(String[] args) throws  Exception{

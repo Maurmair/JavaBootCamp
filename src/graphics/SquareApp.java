@@ -1,4 +1,4 @@
-package chapter10InheritanceAndClassHirarchy;
+package graphics;
 
 public class SquareApp {
     public static void main(String[] args) throws Exception{

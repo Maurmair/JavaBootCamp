@@ -1,6 +1,4 @@
-package chapter10InheritanceAndClassHirarchy;
-
-import chapter8ClassDefenition.Rectangle;
+package graphics;
 
 public class Square extends Rectangle {
     private static int count = 0;

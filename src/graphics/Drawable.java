@@ -1,4 +1,4 @@
-package chapter13Interfaces;
+package graphics;
 
 import javafx.scene.canvas.GraphicsContext;
 

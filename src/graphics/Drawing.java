@@ -1,9 +1,8 @@
-package chapter10InheritanceAndClassHirarchy;
+package graphics;
 
 import java.util.Iterator;
 import java.util.function.Consumer;
 
-import chapter13Interfaces.Drawable;
 import javafx.scene.canvas.GraphicsContext;
 
 public class Drawing implements Drawable, Iterable{
@@ -82,10 +81,7 @@ public class Drawing implements Drawable, Iterable{
         private int position = 0;
         @Override
         public boolean hasNext() {
-            if (position < shapes.length){
-                return true;
-            }
-            return false;
+            return position < shapes.length;
         }
 
         @Override
