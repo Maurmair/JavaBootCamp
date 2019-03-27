@@ -29,24 +29,8 @@ b
 2src/chapter10InheritanceAndClassHirarchy/Bird.java,d\a\da3d408234d31959f181c7fb788fd97f3eb6249c
 a
 1src/chapter10InheritanceAndClassHirarchy/Cat.java,8\0\807f2774902377b1ed39ff729f7111556ea026e0
-e
-5src/chapter10InheritanceAndClassHirarchy/Drawing.java,0\1\0130ea6c94a9973f294fb93308e3ea663340a2b6
-h
-8src/chapter10InheritanceAndClassHirarchy/DrawingApp.java,d\a\da49aa664e88ca0cd1d434f69a9e3e7fd39ef10d
 b
 2src/chapter10InheritanceAndClassHirarchy/Fish.java,8\1\81f756f6ebcc5f26933af47d3a29a8e3cadc2712
-c
-3src/chapter10InheritanceAndClassHirarchy/Shape.java,a\d\ad9f77ecca181e9f53a248509e6f8185fb32e130
-f
-6src/chapter10InheritanceAndClassHirarchy/ShapeApp.java,b\0\b01792afa700c025461610e7d0365e4ae57f5523
-c
-3src/chapter10InheritanceAndClassHirarchy/Snake.java,2\9\29a312818fbf1e4f8593b258a31563158f32047d
-d
-4src/chapter10InheritanceAndClassHirarchy/Square.java,b\3\b389d3fcd0f2f6c4cb72490a88717073bd15639b
-g
-7src/chapter10InheritanceAndClassHirarchy/SquareApp.java,6\3\63693ab7458687802d2bf42ef4519b871ad32273
-f
-6src/chapter10InheritanceAndClassHirarchy/Triangle.java,3\6\36d141ecae9b2a1e301e0f3692a2cae492e94762
 L
 src/chapter11Enums/Coin.java,a\8\a8b56dee4cbeac75684b1e1a8da3367eb13e5e99
 O
@@ -73,18 +57,12 @@ T
 $src/chapter12SimpleClasses/Exc6.java,3\1\317e82f8cdd3f5b1f50f9775025cb6a9760ab641
 T
 $src/chapter12SimpleClasses/Exc7.java,7\0\7048f3819b862008e53940402055b1807773a072
-U
-%src/chapter13Interfaces/Drawable.java,6\3\634f8ad0fafb4c2656de8a580227e283ff7ef143
 R
 "src/chapter13Interfaces/MyPig.java,9\a\9a8923c8fdaf8f506c19e2206c87e2367c1d8f97
 P
  src/chapter13Interfaces/Pig.java,a\4\a481d9def3ac43de7ff529c09f7ad36443b7a5ee
 S
 #src/chapter13Interfaces/PigApp.java,d\7\d71827e24fff8d9f7b8fb771d9e73376c3198e42
-V
-&src/chapter13Interfaces/Scaleable.java,f\9\f9df427a293face4706eed4936aff1ef8346209b
-Y
-)src/chapter13Interfaces/ScaleableApp.java,5\4\54351d44034ba7d472994da9198df07c610b23c3
 f
 6src/chapter14NestedAndAnonymousClasses/Instrument.java,c\c\cc79f85f0324781acec83730475d890a6fef3ebc
 d
@@ -93,8 +71,6 @@ g
 7src/chapter14NestedAndAnonymousClasses/MusicianApp.java,e\e\ee0dad0114d8f6376c27f9928d229ded77543ab0
 X
 (src/chapter15ExceptionHandling/Exc1.java,7\2\72476b2d30672817c13dbda7149b09d04c4d18c4
-i
-9src/chapter15ExceptionHandling/NegativeSizeException.java,6\2\62459303101aa3c71f0046c70f79f4981e2af9f6
 X
 (src/chapter17Generics/ComparableDuo.java,2\7\27fd729d5d9298f6891f510b7dda7eb0cd8f33f4
 N
@@ -183,14 +159,6 @@ L
 src/chapter7Arrays/Exc4.java,c\f\cff60218e50aad4e17acebb9feadcbac40a3db90
 L
 src/chapter7Arrays/Exc5.java,a\e\aeb50079ab3a890edbd82b598bb70d0c62e2c44a
-W
-'src/chapter8ClassDefenition/Circle.java,c\f\cf63d9e832d562a24bcdc9dc47e44725194210b2
-Z
-*src/chapter8ClassDefenition/CircleApp.java,7\a\7a29757c19b475458657194f5b90f3c7522b1c43
-Z
-*src/chapter8ClassDefenition/Rectangle.java,f\d\fd58896bc9841930ac9ca3fb757cc75651dc18b9
-]
--src/chapter8ClassDefenition/RectangleApp.java,c\7\c79bb035a941cca62a575d0ca46c6c0ac9a1b488
 ]
 -src/chapter9Associations/HigherLowerGame.java,a\1\a13e1959eb718dd2ae126bb4216ab768e2d94281
 W

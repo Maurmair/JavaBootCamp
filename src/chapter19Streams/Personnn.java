@@ -1,6 +1,6 @@
 package chapter19Streams;
 
-public class Person {
+public class Personnn {
     private String voornaam;
     private String achternaam;
     private Geslacht geslacht;
@@ -8,8 +8,8 @@ public class Person {
     private float gewicht;
     private float lengte;
 
-    public Person(final String voornaam, final String achternaam, final Geslacht geslacht, final int leeftijd, final float gewicht,
-                  final float lengte) {
+    public Personnn(final String voornaam, final String achternaam, final Geslacht geslacht, final int leeftijd, final float gewicht,
+                    final float lengte) {
         this.voornaam = voornaam;
         this.achternaam = achternaam;
         this.geslacht = geslacht;
@@ -68,7 +68,8 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" + "voornaam='" + voornaam + '\'' + ", achternaam='" + achternaam + '\'' + ", geslacht=" + geslacht + ", leeftijd="
+        return "Personnn{" + "voornaam='" + voornaam + '\'' + ", achternaam='" + achternaam + '\'' + ", geslacht=" + geslacht
+                + ", leeftijd="
                 + leeftijd + ", gewicht=" + gewicht + ", lengte=" + lengte + '}';
     }
 }

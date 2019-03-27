@@ -17,20 +17,20 @@ public class Exc1 {
     }
 
     private static void three() {
-        Person wes = new Person("Wes", "Maurmair", Geslacht.MAN, 30, 118, 184);
-        Person joerie = new Person("Joeri", "Brinks", Geslacht.MAN, 29, 70, 175);
-        Person han = new Person("Han", "Welzen", Geslacht.MAN, 45, 60, 160);
-        Person nora = new Person("Nora", "Miessen", Geslacht.VROUW, 26, 70, 177);
-        Person genderless = new Person("Gen", "DerLess", Geslacht.ONBEPAALD, 20, 90, 190);
+        Personnn wes = new Personnn("Wes", "Maurmair", Geslacht.MAN, 30, 118, 184);
+        Personnn joerie = new Personnn("Joeri", "Brinks", Geslacht.MAN, 29, 70, 175);
+        Personnn han = new Personnn("Han", "Welzen", Geslacht.MAN, 45, 60, 160);
+        Personnn nora = new Personnn("Nora", "Miessen", Geslacht.VROUW, 26, 70, 177);
+        Personnn genderless = new Personnn("Gen", "DerLess", Geslacht.ONBEPAALD, 20, 90, 190);
 
-        Person[] personen = { wes, joerie, han, nora, genderless };
+        Personnn[] personen = { wes, joerie, han, nora, genderless };
 
-        Stream<Person> personStream = Stream.of(personen);
-        Stream<Person> personStreamWomenOnly = Stream.of(personen).filter(s -> s.getGeslacht().equals(Geslacht.VROUW));
-        Stream<Person> personStreamOlderThen30 = Stream.of(personen).filter(s -> s.getLeeftijd() >= 30);
-        Stream<Person> personStreamBetween50And80Kg =
+        Stream<Personnn> personStream = Stream.of(personen);
+        Stream<Personnn> personStreamWomenOnly = Stream.of(personen).filter(s -> s.getGeslacht().equals(Geslacht.VROUW));
+        Stream<Personnn> personStreamOlderThen30 = Stream.of(personen).filter(s -> s.getLeeftijd() >= 30);
+        Stream<Personnn> personStreamBetween50And80Kg =
                 Stream.of(personen).filter(s -> s.getGewicht() >= 50).filter(s -> s.getGewicht() <= 80);
-        Stream<Person> personStreamOlderThen25HeavierThen90KG =
+        Stream<Personnn> personStreamOlderThen25HeavierThen90KG =
                 Stream.of(personen).filter(s -> s.getGewicht() >= 90).filter(s -> s.getLeeftijd() >= 25);
         IntStream intStream = Stream.of(personen).mapToInt(s -> s.getLeeftijd());
 
@@ -72,7 +72,7 @@ public class Exc1 {
                 System.out.println(avgWeight.getAsDouble() + " " + minWeight + " " + maxWeight);
 
         // ######################## OUDE SOUTS
-        //        Person[] ppls = Stream.of(personen).toArray(Person[]::new);
+        //        Personnn[] ppls = Stream.of(personen).toArray(Personnn[]::new);
         //        personStream.forEach(System.out::println);
         //        personStreamWomenOnly.forEach(System.out::println);
         //        personStreamOlderThen30.forEach(System.out::println);

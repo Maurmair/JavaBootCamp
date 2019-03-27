@@ -1,7 +1,5 @@
 package graphics;
 
-import java.util.Iterator;
-
 /**
  * App for creating a {@Link Drawing} object and filling it with a list of {@LinkShapes}
  */
@@ -15,14 +13,10 @@ public class DrawingApp {
 //        System.out.println(drawing.getSize());
 //        drawing.clear();
 //        System.out.println(drawing.getSize());
-        Iterator<Shape> it = drawing.iterator();
-        for (Object s: drawing){
-            if (s != null){
-                System.out.println(s);
-            }
-        }
+
 //        for (Object s: drawing){
 //            System.out.println(s.toString());
 //        }
+        drawing.getShapes().forEach(System.out::println);
     }
 }

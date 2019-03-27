@@ -1,51 +1,41 @@
 package graphics;
 
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Iterator;
-import java.util.function.Consumer;
 
 import javafx.scene.canvas.GraphicsContext;
 
-public class Drawing implements Drawable, Iterable{
+public class Drawing implements Drawable {
 
-    private Drawable[] shapes = new Drawable[100];
+    private Collection<Drawable> shapes = new ArrayList<>();
     private int size = 0;
 
     public Drawing(){
 
     }
 
-    public void add(Drawable d){
-        boolean overeenkomst = false;
-        for (final Drawable shape1 : shapes) {
-            if (shape1 != null && shape1.equals(d)){
-                overeenkomst = true;
+    public void remove(Drawable d) {
+        Iterator<Drawable> iterator = shapes.iterator();
+        while (iterator.hasNext()) {
+            if (iterator.equals(d)) {
+                iterator.remove();
                 break;
             }
         }
-        if(!overeenkomst){
-            voegInOpJuistePositie(d, shapes);
-            size++;
-        }
-
     }
 
-    public void remove(Drawable d){
-//        for (Shape shape1 : shapes){
-//            if ()
-//        }
+    public Collection<Drawable> getShapes() {
+        return shapes;
     }
 
-    private void voegInOpJuistePositie(Drawable d, Drawable... shapes) {
-        for (int i = 0; i <= shapes.length; i++) {
-            if (shapes[i] == null){
-                shapes[i] = d;
-                break;
-            }
-        }
+    public void add(Drawable d) {
+        shapes.add(d);
+        size++;
     }
 
     public void clear(){
-        this.shapes = new Shape[100];
+        this.shapes = new ArrayList<>();
         this.size = 0;
     }
 
@@ -77,35 +67,4 @@ public class Drawing implements Drawable, Iterable{
         return sB.toString();
     }
 
-    class DrawableIterator implements Iterator{
-        private int position = 0;
-        @Override
-        public boolean hasNext() {
-            return position < shapes.length;
-        }
-
-        @Override
-        public Object next() {
-            if (this.hasNext()){
-                return shapes[position++];
-            } else {
-                return null;
-            }
-        }
-
-        @Override
-        public void remove() {
-
-        }
-
-        @Override
-        public void forEachRemaining(final Consumer action) {
-
-        }
-    }
-
-    @Override
-    public Iterator iterator() {
-        return new DrawableIterator();
-    }
 }
