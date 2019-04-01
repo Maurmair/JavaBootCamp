@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b75c6d-7917-4845-969b-84fe5635acb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/AgeComperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/BurgerOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/BurgerOrderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/Exc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/Exc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/Exc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/Exc6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/PersonApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/gitignorefile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/gitignorefile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/CoinApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/MuntTotaalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/PersonUtility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter19Streams/Exc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter19Streams/Exc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter19Streams/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter19Streams/Personnn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphics/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphics/DrawingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/DrawingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter20Collections/PersonApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter20Collections/PersonApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="C:\Projects\JavaBootCamp\.idea\shelf/" />
@@ -30,11 +20,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter20Collections/CoinApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+            <state relative-caret-position="402">
+              <caret line="36" column="34" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonUtility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter11Enums/Coin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -139,6 +171,10 @@
         <option value="$PROJECT_DIR$/src/graphics/Drawing.java" />
         <option value="$PROJECT_DIR$/src/graphics/DrawingApp.java" />
         <option value="$PROJECT_DIR$/src/chapter20Collections/PersonApp.java" />
+        <option value="$PROJECT_DIR$/src/chapter20Collections/MuntTotaalComparator.java" />
+        <option value="$PROJECT_DIR$/src/chapter20Collections/PersonUtility.java" />
+        <option value="$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java" />
+        <option value="$PROJECT_DIR$/src/chapter20Collections/CoinApp.java" />
       </list>
     </option>
   </component>
@@ -169,8 +205,10 @@
     <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="960" />
-    <option name="height" value="1046" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -182,8 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,13 +242,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553721048115" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554104808747" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="C:/../MVT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/pascal-data/apps/node-v6.10.0-win-x64/node" />
@@ -241,34 +279,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PersonApp">
+  <component name="RunManager" selected="Application.PersonTreeMapApp">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11.CoinApp" />
+    <configuration name="CoinApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter20Collections.CoinApp" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11.DayApp" />
-      <module name="BootCamp" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter11.*" />
+          <option name="PATTERN" value="chapter20Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,6 +316,20 @@
     </configuration>
     <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter20Collections.PersonApp" />
+      <module name="BootCamp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter20Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTreeMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter20Collections.PersonTreeMapApp" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -339,19 +377,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DayApp" />
-      <item itemvalue="Application.CoinApp" />
       <item itemvalue="Application.PlanetApp" />
       <item itemvalue="Application.DrawingApp (1)" />
       <item itemvalue="Application.PersonApp" />
+      <item itemvalue="Application.CoinApp (1)" />
+      <item itemvalue="Application.PersonTreeMapApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonTreeMapApp" />
+        <item itemvalue="Application.CoinApp (1)" />
         <item itemvalue="Application.PersonApp" />
         <item itemvalue="Application.DrawingApp (1)" />
         <item itemvalue="Application.PlanetApp" />
-        <item itemvalue="Application.CoinApp" />
-        <item itemvalue="Application.DayApp" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +411,11 @@
       <workItem from="1552574102266" duration="5209000" />
       <workItem from="1552637420916" duration="9531000" />
       <workItem from="1552894688401" duration="24324000" />
-      <workItem from="1553719076101" duration="1969000" />
+      <workItem from="1553719076101" duration="3852000" />
+      <workItem from="1553765796201" duration="1746000" />
+      <workItem from="1553777641821" duration="2150000" />
+      <workItem from="1553865734280" duration="4006000" />
+      <workItem from="1554103323308" duration="1677000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter9Done">
       <created>1552653546206</created>
@@ -396,24 +438,29 @@
       <option name="project" value="LOCAL" />
       <updated>1552919764399</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter20E10Done">
+      <created>1553721141128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553721141128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100530000" />
+    <option name="totallyTimeSpent" value="111992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19387755" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2019334" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="JIRA" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="2" />
@@ -428,6 +475,7 @@
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="JIRA" order="14" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -480,7 +528,11 @@
     <MESSAGE value="Chapter9Done" />
     <MESSAGE value="Chapter10Done" />
     <MESSAGE value="Chapter11Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter11Done" />
+    <MESSAGE value="Chapter20E10Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter20E10Done" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,10 +742,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter20Collections/MuntTotaalComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter20Collections/BurgerOrderApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/CoinApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter20Collections/AgeComperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+        <state relative-caret-position="402">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter20Collections/CoinApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
