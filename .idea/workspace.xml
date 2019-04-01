@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b75c6d-7917-4845-969b-84fe5635acb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/CoinApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/MuntTotaalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter20Collections/PersonUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LosseOefeningen/OlympicGamesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter21/ByteStreamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter21/FilesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter21/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter21/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter21/WriteFileAutoClose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter20Collections/PersonApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter20Collections/PersonApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="C:\Projects\JavaBootCamp\.idea\shelf/" />
@@ -21,52 +22,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter20Collections/CoinApp.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter21/ReadFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="328">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="36" column="34" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonUtility.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter21/ByteStreamApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter11Enums/Coin.java">
+        <entry file="jar://C:/dev/java/jdk1.8/src.zip!/java/util/zip/InflaterInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="199">
+              <caret line="106" column="11" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter21/WriteFileAutoClose.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,6 +76,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>replaces</find>
+      <find>F</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -173,8 +166,15 @@
         <option value="$PROJECT_DIR$/src/chapter20Collections/PersonApp.java" />
         <option value="$PROJECT_DIR$/src/chapter20Collections/MuntTotaalComparator.java" />
         <option value="$PROJECT_DIR$/src/chapter20Collections/PersonUtility.java" />
-        <option value="$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java" />
         <option value="$PROJECT_DIR$/src/chapter20Collections/CoinApp.java" />
+        <option value="$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/Country.java" />
+        <option value="$PROJECT_DIR$/src/LosseOefeningen/OlympicGamesApp.java" />
+        <option value="$PROJECT_DIR$/src/chapter21/FilesApp.java" />
+        <option value="$PROJECT_DIR$/src/chapter21/WriteFile.java" />
+        <option value="$PROJECT_DIR$/src/chapter21/ReadFile.java" />
+        <option value="$PROJECT_DIR$/src/chapter21/WriteFileAutoClose.java" />
+        <option value="$PROJECT_DIR$/src/chapter21/ByteStreamApp.java" />
       </list>
     </option>
   </component>
@@ -205,10 +205,8 @@
     <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1064" />
+    <option name="width" value="960" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -236,7 +234,7 @@
               <item name="JavaBootCamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBootCamp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter20Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter21" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,7 +248,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554104808747" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554127229699" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="C:/../MVT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/pascal-data/apps/node-v6.10.0-win-x64/node" />
@@ -279,20 +277,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PersonTreeMapApp">
+  <component name="RunManager" selected="Application.ReadFile">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter20Collections.CoinApp" />
+    <configuration name="FilesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter21.FilesApp" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter20Collections.*" />
+          <option name="PATTERN" value="chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,13 +298,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawingApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graphics.DrawingApp" />
+    <configuration name="OlympicGamesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LosseOefeningen.OlympicGamesApp" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graphics.*" />
+          <option name="PATTERN" value="LosseOefeningen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,13 +312,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter20Collections.PersonApp" />
+    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter21.ReadFile" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter20Collections.*" />
+          <option name="PATTERN" value="chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,13 +326,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTreeMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter20Collections.PersonTreeMapApp" />
+    <configuration name="WriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter21.WriteFile" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter20Collections.*" />
+          <option name="PATTERN" value="chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,13 +340,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlanetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11.PlanetApp" />
+    <configuration name="WriteFileAutoClose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter21.WriteFileAutoClose" />
       <module name="BootCamp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter11.*" />
+          <option name="PATTERN" value="chapter21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,19 +375,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PlanetApp" />
-      <item itemvalue="Application.DrawingApp (1)" />
-      <item itemvalue="Application.PersonApp" />
-      <item itemvalue="Application.CoinApp (1)" />
-      <item itemvalue="Application.PersonTreeMapApp" />
+      <item itemvalue="Application.OlympicGamesApp" />
+      <item itemvalue="Application.FilesApp" />
+      <item itemvalue="Application.WriteFile" />
+      <item itemvalue="Application.WriteFileAutoClose" />
+      <item itemvalue="Application.ReadFile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonTreeMapApp" />
-        <item itemvalue="Application.CoinApp (1)" />
-        <item itemvalue="Application.PersonApp" />
-        <item itemvalue="Application.DrawingApp (1)" />
-        <item itemvalue="Application.PlanetApp" />
+        <item itemvalue="Application.ReadFile" />
+        <item itemvalue="Application.WriteFileAutoClose" />
+        <item itemvalue="Application.WriteFile" />
+        <item itemvalue="Application.FilesApp" />
+        <item itemvalue="Application.OlympicGamesApp" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +413,7 @@
       <workItem from="1553765796201" duration="1746000" />
       <workItem from="1553777641821" duration="2150000" />
       <workItem from="1553865734280" duration="4006000" />
-      <workItem from="1554103323308" duration="1677000" />
+      <workItem from="1554103323308" duration="17346000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter9Done">
       <created>1552653546206</created>
@@ -445,21 +443,29 @@
       <option name="project" value="LOCAL" />
       <updated>1553721141128</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Chapter20E10Done">
+      <created>1554105026694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554105026695</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111992000" />
+    <option name="totallyTimeSpent" value="127661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2019334" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.42481202" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -470,7 +476,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.26666668" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.27126437" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.39885056" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -493,22 +499,23 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.40271494" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.42481202" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="2" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3275862" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32988507" />
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.2734742" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.27126437" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.39885056" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="JIRA" order="14" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -517,7 +524,7 @@
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.24973147" />
       <window_info anchor="right" id="Maven Projects" order="9" />
     </layout-to-restore>
   </component>
@@ -775,20 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/Coin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="36" column="34" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="36" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonUtility.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -796,23 +789,130 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="48" column="104" lean-forward="true" selection-start-line="48" selection-start-column="104" selection-end-line="48" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter20Collections/CoinApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="483">
+          <caret line="18" column="91" lean-forward="true" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter11Enums/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter20Collections/PersonTreeMapApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        <state relative-caret-position="278">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LosseOefeningen/OlympicGamesApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759">
+          <caret line="9" column="60" lean-forward="true" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter21/FilesApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter21/WriteFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev/java/jdk1.8/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="99" column="11" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev/java/jdk1.8/src.zip!/java/io/FileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="62" column="25" lean-forward="true" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter21/WriteFileAutoClose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter21/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/dev/java/jdk1.8/src.zip!/java/util/zip/InflaterInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="106" column="11" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter21/ByteStreamApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>

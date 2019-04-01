@@ -221,3 +221,21 @@ U
 %src/chapter20Collections/CoinApp.java,0\b\0b21609a38dbcca3af21e21de734d5d94d84a87b
 b
 2src/chapter20Collections/MuntTotaalComparator.java,e\f\efb5649c5c22dc5971f4b3f4450c55f9d90157fa
+[
++src/chapter20Collections/PersonUtility.java,d\e\de6166f4058809f1624d4354d940f26beac22a94
+P
+ src/LosseOefeningen/Country.java,b\c\bc5eaddec75b73d27833aeb3469955b740e88ee3
+^
+.src/chapter20Collections/PersonTreeMapApp.java,4\4\447992c7965be200b72f44b7fb8258dad1d6af29
+X
+(src/LosseOefeningen/OlympicGamesApp.java,8\d\8d4845cf053d61849bf464f7408ca297daa555cc
+K
+src/chapter21/FilesApp.java,2\0\205fd8d7c987a8a995458ca0f3d43faa4e1523d6
+L
+src/chapter21/WriteFile.java,3\6\3601c822555c28108b5f03d2a7fe193f72fc3c28
+U
+%src/chapter21/WriteFileAutoClose.java,5\b\5b74485cb3f10f439e0577b0a790432ae1f0c1f2
+K
+src/chapter21/ReadFile.java,1\f\1fb56acd791c0184376e6084617ecc985c90a625
+P
+ src/chapter21/ByteStreamApp.java,3\b\3b9eb528cede7c95a10e5ef79333c52cb15ef334

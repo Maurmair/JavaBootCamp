@@ -1,0 +1,19 @@
+package LosseOefeningen;
+
+public class Country {
+
+    private String name;
+
+    public Country(final String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(final String name) {
+        this.name = name;
+    }
+
+}
